@@ -1,0 +1,15 @@
+{
+  "name": "blogexpress",
+  "version": "1.0.0",
+  "description": "This is the Blog Created for learning Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avirup Dutta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7"
+  }
+}
